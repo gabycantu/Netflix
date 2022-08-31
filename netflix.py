@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import datetime
-import matplotlib.pyplot as plt
 import numpy as np
 
 st.title('Netflix app')
